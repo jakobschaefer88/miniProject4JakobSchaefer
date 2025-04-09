@@ -42,7 +42,7 @@ ex. Jakob Schaefer
 ## Acknowledgments
 
 Inspiration, code snippets, etc.
-*[Django](https://www.djangoproject.com/)
-*[PrettyPrinted](https://prettyprinted.com/tutorials/creating-a-poll-app-in-django/)
-*[Youtube](https://www.youtube.com/watch?v=F5mRW0jo-U4)
-*[Youtube](https://www.youtube.com/watch?v=rHux0gMZ3Eg&t=160s)
+* [Django](https://www.djangoproject.com/)
+* [PrettyPrinted](https://prettyprinted.com/tutorials/creating-a-poll-app-in-django/)
+* [Youtube](https://www.youtube.com/watch?v=F5mRW0jo-U4)
+* [Youtube](https://www.youtube.com/watch?v=rHux0gMZ3Eg&t=160s)
