@@ -17,7 +17,6 @@ This project will be using Django to deploy a small web app of your choice.
 pip install -r requirements.txt
 ```
 
-### Executing program
 ## Migrating Program
 
 Don't forget to change into the correct directory
@@ -28,6 +27,11 @@ python manage.py migrations
 
 ## Creating SuperUser
 python mange.py createsuperuser
+
+### Executing program
+```
+python manage.py runserver
+```
 
 ## Authors
 
