@@ -26,7 +26,11 @@ class Migration(migrations.Migration):
                 ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),
                 ('choice_text', models.CharField(max_length=200)),
                 ('votes', models.IntegerField(default=0)),
+<<<<<<<< HEAD:djangoProject/pages/migrations/0001_initial.py
                 ('question', models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, to='pages.question')),
+========
+                ('question', models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, to='poll.question')),
+>>>>>>>> origin/main:djangoProject/poll/migrations/0001_initial.py
             ],
         ),
     ]
