@@ -27,7 +27,7 @@ python manage.py migrations
 
 ## Creating SuperUser
 ```
-python mange.py createsuperuser
+python manage.py createsuperuser
 ```
 
 ### Executing program
